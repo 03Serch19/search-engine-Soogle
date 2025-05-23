@@ -1,10 +1,7 @@
 
 # Search-engine  - Soogle
 ---
-
 **Soogle** es un proyecto personal de motor de búsqueda **full-stack** que demuestra la creación de un sistema de búsqueda web desde cero.
-
----
 
 ## Características Principales
 
@@ -38,7 +35,7 @@
 * **Spring Data JPA**
 * **Hibernate**
 * **Lombok**
-* **Base de Datos:** PostgreSQL , H2 (para desarrollo rápido)
+* **Base de Datos:** PostgreSQL 
 
 ### Frontend
 
@@ -46,4 +43,4 @@
 * **Consumo de API:** 
 * **Manipulación del DOM**
 
-* 2025
+  2025
