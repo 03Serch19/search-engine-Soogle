@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resultados de la Búsqueda</title>
+    <link rel="icon" href="img/logoMy.png" type="image/x-icon">
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        .header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .small-logo-container {
+            margin-right: 20px;
+        }
+        .small-logo {
+            max-height: 50px;
+        }
+        .search-bar {
+            display: flex;
+            flex-grow: 1;
+        }
+        .search-input {
+            padding: 10px 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px 0 0 5px;
+            flex-grow: 1;
+        }
+        .search-button {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 0 5px 5px 0;
+            background-color: #007bff;
+            color: white;
+            cursor: pointer;
+        }
+        .search-button:hover {
+            background-color: #0056b3;
+        }
+        .results-container {
+            margin-top: 20px;
+        }
+        .result-item {
+            background-color: #fff;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 5px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+        .result-item h2 a {
+            color: #1a0dab;
+            text-decoration: none;
+        }
+        .result-item p {
+            color: #444;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="small-logo-container">
+            <img src="img/logoMy.png" alt="Logo Pequeño" class="small-logo">
+        </div>
+        <div class="search-bar">
+            <input type="text" class="search-input" placeholder="Buscar...">
+            <button class="search-button">Buscar</button>
+        </div>
+    </div>
+
+    <div class="results-container">
+        
+        </div>
+
+    <script src="results.js"></script>
+</body>
+</html>
