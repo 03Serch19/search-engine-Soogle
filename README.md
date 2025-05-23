@@ -1,6 +1,6 @@
 
 # Search-engine  - Soogle
-Características Principales
+** Características Principales
 
 * **Rastreador Web (Web Crawler):** Un `SpiderService` inteligente que descubre y descarga contenido web, **utilizando procesamiento paralelo y concurrencia** para optimizar la velocidad y eficiencia del rastreo.
     * **Manejo de Pausas y Errores:** Implementa retrasos aleatorios y lógicas de reintento (`429 Too Many Requests`) para evitar ser bloqueado por los servidores.
