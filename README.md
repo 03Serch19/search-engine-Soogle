@@ -1,8 +1,5 @@
 
 # Search-engine  - Soogle
-
-# Search-engine - Soogle
-
 ---
 
 **Soogle** es un proyecto personal de motor de búsqueda **full-stack** que demuestra la creación de un sistema de búsqueda web desde cero.
