@@ -24,7 +24,7 @@
 
 * **Frontend Intuitivo y Reactivo (JavaScript Puro):** Una interfaz de usuario limpia y responsiva.
     * **Interacción Dinámica:** Permite a los usuarios introducir sus consultas de búsqueda y visualizar los resultados.
-    * **Comportamiento SPA (Single Page Application):** Optimizado para una experiencia fluida; a partir de la segunda pantalla de búsqueda, la aplicación se comporta como una SPA, actualizando el contenido reactivamente mediante `Workspace` sin recargar el navegador.
+    * **Comportamiento SPA (Single Page Application):** Optimizado para una experiencia fluida; a partir de la segunda pantalla de búsqueda, la aplicación se comporta como una SPA, actualizando el contenido reactivamente sin recargar el navegador.
 
 ---
 
@@ -43,7 +43,7 @@
 ### Frontend
 
 * **JavaScript Puro** (ES6+)
-* **Consumo de API:** `Workspace API`
+* **Consumo de API:** 
 * **Manipulación del DOM**
 
 * 2025
